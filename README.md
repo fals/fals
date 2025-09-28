@@ -1,6 +1,3 @@
-Great! Here’s your finalized profile README in the correct format, ready to use on your GitHub profile:
-
-````markdown name=README.md
 # Hi there, I'm Filipe 👋
 
 I'm Filipe Augusto Lima de Souza, a Senior Software Engineer with over 15 years of experience building and maintaining large-scale distributed systems. I thrive on solving tough real-world problems, leading teams, and moving legacy systems into the future with cloud-native architectures.
@@ -38,6 +35,3 @@ I'm actively working on and contributing to:
 ---
 
 Thanks for stopping by! If you want to chat about distributed systems, cloud tech, or just say hi, feel free to connect.
-````
-
-Just copy and paste this into your GitHub profile README.md. If you ever want to update or personalize it further, let me know—happy to help! 🚀
